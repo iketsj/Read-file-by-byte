@@ -12,8 +12,7 @@ HelloWorld.txt contains "Hello World" without the quotation marks.
 The program outputs these on the terminal:
 ```
 72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100
-```
-The program will also output a file with the C 3d array. 
+``` 
 
 ## Program Arguments
 | Parameter		| Required		| Description		|
